@@ -30,12 +30,6 @@ kael.rc
     in the RES subdirectory.  This file can be directly edited in Microsoft
 	Visual C++.
 
-kael.clw
-    This file contains information used by ClassWizard to edit existing
-    classes or add new classes.  ClassWizard also uses this file to store
-    information needed to create and edit message maps and dialog data
-    maps and to create prototype member functions.
-
 res\kael.ico
     This is an icon file, which is used as the application's icon.  This
     icon is included by the main resource file kael.rc.
