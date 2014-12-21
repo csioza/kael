@@ -12,8 +12,7 @@ make up your kael application.
 
 kael.dsp
     This file (the project file) contains information at the project level and
-    is used to build a single project or subproject. Other users can share the
-    project (.dsp) file, but they should export the makefiles locally.
+    is used to build a single project or subproject.
 
 kael.h
     This is the main header file for the application.  It includes other
