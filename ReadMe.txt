@@ -69,5 +69,3 @@ and rename it to be MFCLOC.DLL.  ("XXX" stands for the language abbreviation.
 For example, MFC42DEU.DLL contains resources translated to German.)  If you
 don't do this, some of the UI elements of your application will remain in the
 language of the operating system.
-
-/////////////////////////////////////////////////////////////////////////////
