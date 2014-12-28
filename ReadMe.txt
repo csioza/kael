@@ -60,10 +60,6 @@ Resource.h
     Microsoft Visual C++ reads and updates this file.
 
 /////////////////////////////////////////////////////////////////////////////
-Other notes:
-
-AppWizard uses "TODO:" to indicate parts of the source code you
-should add to or customize.
 
 If your application uses MFC in a shared DLL, and your application is 
 in a language other than the operating system's current language, you
